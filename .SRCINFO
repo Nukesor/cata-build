@@ -1,6 +1,6 @@
 pkgbase = nuke-cataclysm-dda-git
 	pkgdesc = A post-apocalyptic roguelike.
-	pkgver = 0.D.r22454.g8c0034b74e
+	pkgver = 0.E.2021.01.13
 	pkgrel = 2
 	url = https://github.com/CleverRaven/Cataclysm-DDA
 	arch = x86_64
